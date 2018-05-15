@@ -1,0 +1,19 @@
+.info {
+    color: blue;
+    font-size: 13px;
+}
+
+.info:hover{
+    color:green;
+}
+
+.set-text {
+    margin: 0px;
+    text-align: center;
+    background-color: #eee;
+}
+
+.grey-background {
+    background-color: #eee;
+}
+
