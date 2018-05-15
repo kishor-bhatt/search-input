@@ -14,7 +14,8 @@ const routes: Routes = [
     },
     {
         path: '**',
-        redirectTo: 'first'
+        redirectTo: 'first',
+        component: SearchInputComponent
     } 
   
 ];

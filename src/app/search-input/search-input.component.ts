@@ -13,7 +13,7 @@ import { Router, ActivatedRoute } from '@angular/router';
 export class SearchInputComponent implements OnInit {
   public skillList = ['java','javascript','angular','angularJS'];
   public sourceList  = ['linked','github','stackoverflow','sourcepro'];
-  public cityList = ['bangalore','bangladesh','chennai','chandigarh','pune','patiala'];
+  public cityList = ['bangalore','chennai','chandigarh','pune'];
   skill = '';
   source = '';
   city = '';
